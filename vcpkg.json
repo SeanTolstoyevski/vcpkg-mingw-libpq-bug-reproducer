@@ -1,0 +1,14 @@
+{
+ "name": "poco-postgresql-example",
+ "version": "1.0.0",
+ "description": "Poco + PostgreSQL Sample ",
+ "dependencies": [
+  {
+   "name": "poco",
+   "features": [
+    "data",
+    "postgresql"
+   ]
+  }
+ ]
+}

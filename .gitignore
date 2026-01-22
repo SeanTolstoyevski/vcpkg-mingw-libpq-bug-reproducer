@@ -1,0 +1,10 @@
+compile_commands.json
+*.log
+*.exe
+*.exe~
+*.dll
+
+build/
+buildlinux/
+
+.cache/

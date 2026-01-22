@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Windows MINGW64",
+            "includePath": [
+                "${workspaceFolder}/*",
+                "D:/projects/my/vcpkg/installed/x64-mingw-static/include"
+            ],
+            "defines": [
+                "__SIZE_TYPE__=long long unsigned int"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:/apps/msys64/clang64/bin/clang++.exe"
+        }
+   ],
+    "version": 4
+}
